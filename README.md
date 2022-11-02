@@ -1,0 +1,2 @@
+# Pokedex
+ Projeto Angular Pokedex
